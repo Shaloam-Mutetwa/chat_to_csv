@@ -7,7 +7,6 @@ A lightweight Streamlit app that allows users to upload CSV files and interact w
 - Ask questions in plain English
 - Get instant summaries and data insights
 - No coding required
-- Personalized interface for interviews and demos
 
 ## Built With
 - Python
