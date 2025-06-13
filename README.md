@@ -26,7 +26,7 @@ pip install -r requirements.txt
 streamlit run app.py
  ```
 
-## Screenshot
+## UI
 
 ![App Screenshot](screenshot.png)
 
