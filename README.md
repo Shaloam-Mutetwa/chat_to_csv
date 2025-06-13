@@ -16,7 +16,7 @@ A lightweight Streamlit app that allows users to upload CSV files and interact w
 
 ##  Demo Use Cases
 - AI-powered data summaries
-- Interview showcase for LLM apps
+- Data analysis of structured data
 - Smart CSV analysis MVP
 
 ## How to Run
